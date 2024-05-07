@@ -29,7 +29,7 @@ const image = aiResponse.data[0].b64_json;
 res.status(200).json({ photo: image });
 } catch (error) {
 console.error(error);
-res.status(500).send(error?.response.data.error.message );
+res.status(500).send(error?.response.error.message );
 }
 });
 
