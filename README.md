@@ -4,7 +4,7 @@
 
 Frontend and Backend are both hosted on "Render.com"
 
-# Website is live : https://ai-img-generation-frontend.onrender.com
+# Website is live : https://mihir-ai-img-generation.onrender.com
 #
 
 Since this is free hosting, it will get expire as the number of users will increase. 
