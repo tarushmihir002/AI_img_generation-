@@ -3,3 +3,5 @@
 #
 
 Frontend and Backend are both hosted on "Render.com"
+
+# Website is live : https://ai-img-generation-frontend.onrender.com
